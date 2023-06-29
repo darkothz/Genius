@@ -1,4 +1,4 @@
 # Aula de Javascript - Genius
 
 
-Prof. Henrique Barbosa
+Por Prof. Henrique Barbosa. Alterado pelo aluno Thomaz Messeder
